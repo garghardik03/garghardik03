@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my College Project<br>🌱 I’m currently learning Deep Learning and Data Analytics<br>💬 Ask me about anything and everything<br>
+🔭 I’m currently working on my Capstone Project<br>🌱 I’m currently learning Big Data Hadoop<br>💬 Ask me about anything and everything<br>
 
 
 ## 🌐 Socials:
